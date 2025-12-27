@@ -15,29 +15,6 @@ The goal is to understand customer behavior and identify key factors contributin
 - Scikit-learn
 
 ## Project Structure
-# Customer Churn Prediction
-
-## Project Overview
-This project predicts whether a telecom customer will churn using machine learning.
-The goal is to understand customer behavior and identify key factors contributing to churn.
-
-## Dataset
-- Telco Customer Churn Dataset (Kaggle)
-- Link: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
-
-## Tech Stack
-- Python
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Scikit-learn
-
-## Project Structure
-Customer-Churn-Prediction/
-├── data/
-├── src/
-├── reports/
-├── README.md
-└── requirements.txt
 
 
 ## Exploratory Data Analysis
@@ -64,7 +41,6 @@ Customer-Churn-Prediction/
 - Model evaluated using:
   - Accuracy
   - Confusion Matrix
-  - ROC Curve
   - Feature Importance
 
 
