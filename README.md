@@ -14,22 +14,6 @@ The goal is to analyze customer behavior and identify the factors that influence
 - Matplotlib, Seaborn
 - Scikit-learn
 
-## Project Structure
-Customer-Churn-Prediction/
-├── data/
-│ ├── WA_Fn-UseC_-Telco-Customer-Churn.csv
-│ └── cleaned_churn_data.csv
-├── src/
-│ ├── data_analysis.py
-│ └── churn_ml_visuals.py
-├── reports/
-│ ├── churn_distribution.png
-│ ├── monthly_charges_vs_churn.png
-│ ├── churn_by_contract.png
-│ ├── confusion_matrix.png
-│ └── feature_importance.png
-├── requirements.txt
-└── README.md
 
 
 ## Exploratory Data Analysis
